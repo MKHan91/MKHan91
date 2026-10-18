@@ -99,7 +99,8 @@
 - **산업용 AI:** 전류·진동·음향 데이터 기반 설비 고장 진단, 잔여수명(RUL) 예측, 이상 탐지
 - **의료 AI:** 12유도 심전도(ECG) 이미지 기반 부정맥 분류 및 멀티 GPU 학습 인프라
 - **기술 교육:** 카메라 인식과 장애물 회피를 다루는 입문용 자율주행 강의 제작
-- **DACON:**: Computer Vision 이상치 탐지 알고리즘 경진 대회 Private 9등
+- **DACON 챌린지:** Computer Vision 이상치 탐지 알고리즘 경진 대회 Private 9등  
+  (Reference: https://dacon.io/competitions/official/235894/codeshare/4959)
 
 ## 🛠️ Tech Stack
 
