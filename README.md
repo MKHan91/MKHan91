@@ -1,11 +1,17 @@
 <!-- Header: Capsule Render + Typing SVG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Myungkyu+Han&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Computer+Vision+Research+Engineer&descAlignY=55&descSize=18" width="100%" alt="Myungkyu Han | Computer Vision Research Engineer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Noto%2BSans%2BKR&weight=600&size=20&pause=1100&color=2C5364&center=true&vCenter=true&width=760&height=55&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%2C+%EB%AA%A8%EB%8D%B8%EC%9D%84+%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0%2C+%EC%8B%A4%EC%A0%9C+%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C+%EB%8F%99%EC%9E%91%ED%95%98%EA%B2%8C+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.%3BComputer+Vision+%C2%B7+Model+Optimization+%C2%B7+Edge+AI" alt="컴퓨터 비전과 엣지 AI를 연구하는 AI 엔지니어" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0E6CE,100:D8C09A&height=220&section=header&text=Myungkyu+Han&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Computer+Vision+Research+Engineer&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%" alt="Myungkyu Han | Computer Vision Research Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto%2BSans%2BKR&weight=600&size=20&pause=1100&color=FFFFFF&center=true&vCenter=true&width=760&height=55&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%A0%95%EC%9D%98%ED%95%98%EA%B3%A0%2C+%EB%AA%A8%EB%8D%B8%EC%9D%84+%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0%2C+%EC%8B%A4%EC%A0%9C+%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C+%EB%8F%99%EC%9E%91%ED%95%98%EA%B2%8C+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.%3BComputer+Vision+%C2%B7+Model+Optimization+%C2%B7+Edge+AI" alt="컴퓨터 비전과 엣지 AI를 연구하는 비전 연구원" />
   <p>
     <a href="https://canva.link/twtbxo2iz9q4z46"><img src="https://img.shields.io/badge/Portfolio-View-2C5364?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:audrbz@naver.com"><img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.youtube.com/shorts/XccgTKKbucs"><img src="https://img.shields.io/badge/Technical%20Video-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Technical Video" /></a>
+  <a href="https://www.youtube.com/shorts/XccgTKKbucs">
+    <img src="https://img.shields.io/badge/Technical%20Video%201-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Technical Video 1" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=2fPdZYzx9Cg">
+    <img src="https://img.shields.io/badge/Technical%20Video%202-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Technical Video 2" />
+  </a>
   </p>
 </div>
 
